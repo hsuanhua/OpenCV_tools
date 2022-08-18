@@ -1,6 +1,6 @@
 """
-Video to images
-python video2image.py --video {video path} --save {save path}
+Video to Images
+python video2Image.py --video {video path} --save {save path}
 """
 import cv2
 import pandas as pd
